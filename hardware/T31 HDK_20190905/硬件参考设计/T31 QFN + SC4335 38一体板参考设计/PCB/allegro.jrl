@@ -1,0 +1,989 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Fri Aug 23 17:53:23 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=9080 CPUs=4
+\t (00:00:01) 
+   (00:00:01) *WARNING* (reader): suspicious newline found after the operator '
+   (00:00:01) function SetGridsScriptCreate redefined
+   (00:00:01) function SetGridsScriptCreate redefined
+   (00:00:01) function SetGridsScriptCreate redefined
+   (00:00:01) function SetGridsScriptCreate redefined
+   (00:00:01) function _saveSelSet redefined
+   (00:00:01) function _restoreSelSet redefined
+   (00:00:01) Loading axlcore.cxt 
+   (00:00:01) ----------------------------------Cadence 辅助工具使用期限已到，如需继续使用，请联络我们。
+\t (00:00:03) Opening existing design...
+\w (00:00:03) WARNING(SPMHDB-214): Allegro PCB Design GXL (legacy) opening an Allegro XL design.
+\w (00:00:03) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:03) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro XL). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
+   (00:00:03) Loading cmds.cxt 
+\i (00:00:20) fillin confirm
+\d (00:00:20) Database opened: D:/Project/T31/T31 HDK/T31 HDK_20190823/硬件参考设计/T31 QFN + SC4335 38一体板参考设计/PCB/T31_QFN_SC4335_38_V1.0_190823E.brd
+\i (00:00:20) trapsize 29414
+\i (00:00:20) trapsize 28876
+\i (00:00:21) trapsize 29506
+\i (00:00:21) trapsize 29766
+\i (00:00:21) trapsize 35638
+\i (00:00:21) trapsize 35638
+\i (00:00:22) generaledit 
+\i (00:00:22) roam start
+\i (00:00:22) roam x -32
+\i (00:00:22) roam y 32
+\i (00:00:22) roam x -128
+\i (00:00:22) roam y 80
+\i (00:00:22) roam x -96
+\i (00:00:22) roam y 32
+\i (00:00:22) roam x -64
+\i (00:00:22) roam y 16
+\i (00:00:22) roam end
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 737.413 906.490
+\i (00:00:23) trapsize 17819
+\i (00:00:23) roam start
+\i (00:00:23) roam x 32
+\i (00:00:23) roam y -128
+\i (00:00:23) roam x 64
+\i (00:00:23) roam y -256
+\i (00:00:23) roam x 112
+\i (00:00:23) roam y -208
+\i (00:00:23) roam x 32
+\i (00:00:23) roam y -64
+\i (00:00:23) roam x 16
+\i (00:00:23) roam y -32
+\i (00:00:23) roam end
+\i (00:00:24) roam start
+\i (00:00:24) roam y 80
+\i (00:00:24) roam x -16
+\i (00:00:24) roam y 224
+\i (00:00:24) roam x -32
+\i (00:00:24) roam y 192
+\i (00:00:24) roam x -64
+\i (00:00:24) roam y 192
+\i (00:00:24) roam x -48
+\i (00:00:24) roam y 112
+\i (00:00:24) roam end
+\i (00:00:25) setwindow form.vf_vis
+\i (00:00:25) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) roam start
+\i (00:00:25) roam x -96
+\i (00:00:25) roam y 112
+\i (00:00:25) roam x -64
+\i (00:00:25) roam y 80
+\i (00:00:25) roam end
+\i (00:00:26) roam start
+\i (00:00:26) roam x 64
+\i (00:00:26) roam y -192
+\i (00:00:26) roam x 208
+\i (00:00:26) roam y -352
+\i (00:00:26) roam x 128
+\i (00:00:26) roam y -192
+\i (00:00:26) roam x 96
+\i (00:00:26) roam y -144
+\i (00:00:26) roam x 48
+\i (00:00:26) roam y -64
+\i (00:00:26) roam y -16
+\i (00:00:27) roam y 48
+\i (00:00:27) roam x -16
+\i (00:00:27) roam y 96
+\i (00:00:27) roam x -32
+\i (00:00:27) roam y 64
+\i (00:00:27) roam x -32
+\i (00:00:27) roam y 32
+\i (00:00:27) roam x -48
+\i (00:00:27) roam y 48
+\i (00:00:27) roam x -16
+\i (00:00:27) roam y 32
+\i (00:00:27) roam end
+\i (00:00:28) roam start
+\i (00:00:28) roam x 48
+\i (00:00:28) roam y -96
+\i (00:00:28) roam y -16
+\i (00:00:28) roam end
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 2946.974 3265.732
+\i (00:00:29) trapsize 35638
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 2298.362 3814.558
+\i (00:00:29) trapsize 17819
+\i (00:00:30) roam start
+\i (00:00:30) roam x -16
+\i (00:00:30) roam y 80
+\i (00:00:30) roam x -16
+\i (00:00:30) roam y 96
+\i (00:00:30) roam x -48
+\i (00:00:30) roam y 128
+\i (00:00:30) roam x -80
+\i (00:00:30) roam y 208
+\i (00:00:30) roam x -80
+\i (00:00:30) roam y 160
+\i (00:00:30) roam end
+\i (00:00:34) setwindow form.vf_vis
+\i (00:00:34) FORM vf_vis colorview_list Film: BOTTOM 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) roam start
+\i (00:00:34) roam x -128
+\i (00:00:34) roam y 32
+\i (00:00:34) roam x -64
+\i (00:00:34) roam y 32
+\i (00:00:34) roam end
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 1304.058 796.011
+\i (00:00:34) trapsize 8910
+\i (00:00:35) roam start
+\i (00:00:35) roam x -80
+\i (00:00:35) roam y 64
+\i (00:00:35) roam end
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 990.443 703.352
+\i (00:00:35) trapsize 4455
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 992.225 713.153
+\i (00:00:36) trapsize 8910
+\i (00:00:37) roam start
+\i (00:00:37) roam x -48
+\i (00:00:37) roam y 64
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 32
+\i (00:00:37) roam end
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 1054.591 403.993
+\i (00:00:37) trapsize 4455
+\i (00:00:38) roam start
+\i (00:00:38) roam x -64
+\i (00:00:38) roam y -16
+\i (00:00:38) roam x -80
+\i (00:00:38) roam y -48
+\i (00:00:38) roam x -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam end
+\i (00:00:39) zoom in 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom in 944.113 526.944
+\i (00:00:39) trapsize 2227
+\i (00:00:40) show element 
+\i (00:00:41) setwindow form.find
+\i (00:00:41) FORM find all_off  
+\i (00:00:41) FORM find lines YES 
+\i (00:00:43) FORM find clines YES 
+\i (00:00:43) FORM find lines NO 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) pick grid 915.158 621.831
+\t (00:00:44) last pick:  915.000  622.000
+\i (00:00:46) roam start
+\i (00:00:46) roam x 64
+\i (00:00:46) roam x 208
+\i (00:00:46) roam y -32
+\i (00:00:46) roam end
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 941.920 643.694
+\i (00:00:47) trapsize 1114
+\i (00:00:47) show measure 
+\i (00:00:48) show measure 
+\i (00:00:49) setwindow form.find
+\i (00:00:49) FORM find pins NO 
+\i (00:00:50) FORM find shapes NO 
+\i (00:00:51) FORM find cline_segs YES 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) pick grid 915.637 642.803
+\t (00:00:52) last pick:  915.500  643.000
+\i (00:00:52) pick grid 902.496 643.916
+\t (00:00:52) last pick:  902.500  644.000
+\i (00:00:53) prepopup 894.923 649.039
+\i (00:00:53) done 
+\i (00:00:53) generaledit 
+\i (00:00:53) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 917.419 640.798
+\i (00:00:54) trapsize 2227
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 918.310 639.907
+\i (00:00:54) trapsize 4455
+\i (00:00:54) zoom out 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom out 961.966 599.815
+\i (00:00:54) trapsize 8910
+\i (00:00:54) roam start
+\i (00:00:54) roam x 32
+\i (00:00:54) roam y -176
+\i (00:00:54) roam x 128
+\i (00:00:54) roam y -384
+\i (00:00:54) roam x 96
+\i (00:00:54) roam y -192
+\i (00:00:54) roam x 16
+\i (00:00:54) roam y -16
+\i (00:00:54) roam end
+\i (00:00:55) roam start
+\i (00:00:55) roam x 48
+\i (00:00:55) roam y -96
+\i (00:00:55) roam x 256
+\i (00:00:55) roam y -512
+\i (00:00:55) roam x 160
+\i (00:00:55) roam y -272
+\i (00:00:55) roam x 80
+\i (00:00:55) roam y -112
+\i (00:00:55) roam end
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 2654.778 3169.546
+\i (00:00:55) trapsize 17819
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 2658.342 3173.110
+\i (00:00:55) trapsize 35638
+\i (00:00:57) setwindow form.vf_vis
+\i (00:00:57) FORM vf_vis colorview_list Film: DRILL 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) roam start
+\i (00:00:58) roam x 16
+\i (00:00:58) roam y -48
+\i (00:00:58) roam y 48
+\i (00:00:58) roam x -16
+\i (00:00:58) roam y 64
+\i (00:00:58) roam end
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 2740.309 4163.850
+\i (00:00:58) trapsize 17819
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 2740.310 4163.850
+\i (00:00:58) trapsize 8910
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out 2790.203 4231.563
+\i (00:01:01) trapsize 17819
+\i (00:01:01) roam start
+\i (00:01:01) roam x -32
+\i (00:01:01) roam y 96
+\i (00:01:01) roam x -112
+\i (00:01:01) roam y 320
+\i (00:01:01) roam x -64
+\i (00:01:01) roam y 240
+\i (00:01:01) roam x -64
+\i (00:01:01) roam y 224
+\i (00:01:01) roam end
+\i (00:01:02) roam start
+\i (00:01:02) roam x -48
+\i (00:01:02) roam y 64
+\i (00:01:02) roam x -64
+\i (00:01:02) roam y 80
+\i (00:01:02) roam end
+\i (00:01:03) setwindow form.vf_vis
+\i (00:01:03) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) roam start
+\i (00:01:03) roam x -96
+\i (00:01:03) roam end
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 837.233 539.452
+\i (00:01:03) trapsize 8910
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 837.234 550.143
+\i (00:01:04) trapsize 4455
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 854.162 573.308
+\i (00:01:04) trapsize 2227
+\i (00:01:04) roam start
+\i (00:01:04) roam x -48
+\i (00:01:04) roam y -16
+\i (00:01:04) roam x -48
+\i (00:01:04) roam y -48
+\i (00:01:05) roam end
+\i (00:01:06) setwindow form.vf_vis
+\i (00:01:06) FORM vf_vis 2 all_colorvisible YES 
+\i (00:01:06) FORM vf_vis 2 all_colorvisible NO 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) roam start
+\i (00:01:06) roam x 48
+\i (00:01:06) roam y 128
+\i (00:01:07) roam x 192
+\i (00:01:07) roam y 384
+\i (00:01:07) roam x 64
+\i (00:01:07) roam y 160
+\i (00:01:07) roam end
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 1023.888 285.530
+\i (00:01:07) trapsize 4455
+\i (00:01:07) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 926.774 303.348
+\i (00:01:08) trapsize 2227
+\i (00:01:09) setwindow form.vf_vis
+\i (00:01:09) FORM vf_vis 1 all_colorvisible NO 
+\i (00:01:09) FORM vf_vis 3 all_colorvisible YES 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) roam start
+\i (00:01:10) roam x -96
+\i (00:01:10) roam y -16
+\i (00:01:10) roam x -48
+\i (00:01:10) roam y -16
+\i (00:01:10) roam end
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 925.438 305.131
+\i (00:01:10) trapsize 4455
+\i (00:01:11) setwindow form.vf_vis
+\i (00:01:11) FORM vf_vis 3 all_colorvisible NO 
+\i (00:01:11) FORM vf_vis 2 all_colorvisible YES 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) roam start
+\i (00:01:12) roam x -48
+\i (00:01:12) roam x -16
+\i (00:01:12) roam end
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 830.106 283.749
+\i (00:01:12) trapsize 2227
+\i (00:01:13) roam start
+\i (00:01:13) roam x 64
+\i (00:01:13) roam y -32
+\i (00:01:13) roam x 96
+\i (00:01:13) roam y -16
+\i (00:01:13) roam end
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 904.501 307.358
+\i (00:01:14) trapsize 4455
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 904.500 308.249
+\i (00:01:14) trapsize 2227
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 904.946 308.695
+\i (00:01:14) trapsize 1114
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 904.946 308.918
+\i (00:01:15) trapsize 2227
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 904.946 308.918
+\i (00:01:15) trapsize 4455
+\i (00:01:16) setwindow form.vf_vis
+\i (00:01:16) FORM vf_vis 2 all_colorvisible NO 
+\i (00:01:17) FORM vf_vis 3 all_colorvisible YES 
+\i (00:01:17) FORM vf_vis 3 all_colorvisible NO 
+\i (00:01:18) FORM vf_vis 4 all_colorvisible YES 
+\i (00:01:19) FORM vf_vis 4 all_colorvisible NO 
+\i (00:01:19) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:20) FORM vf_vis 1 all_colorvisible NO 
+\i (00:01:22) FORM vf_vis colorview_list Film: Solder_Bot 
+\i (00:01:25) FORM vf_vis colorview_list Film: Solder_Top 
+\i (20:02:57) setwindow pcb
+\i (20:02:57) xhilite 
+\i (20:02:57) xname_flush 
+\i (20:02:57) done 
+\i (20:02:57) generaledit 
+\i (20:02:58) xhilite 
+\i (20:02:58) xname_flush 
+\i (20:02:58) done 
+\i (20:02:58) generaledit 
+\i (20:02:58) xhilite 
+\i (20:02:58) xname_flush 
+\i (20:02:58) done 
+\i (20:02:58) generaledit 
+\i (20:02:59) xhilite 
+\i (20:02:59) xname_flush 
+\i (20:02:59) done 
+\i (20:02:59) generaledit 
+\i (20:02:59) xhilite 
+\i (20:02:59) xname_flush 
+\i (20:02:59) done 
+\i (20:02:59) generaledit 
+\i (20:03:00) xhilite 
+\i (20:03:00) xname_flush 
+\i (20:03:00) done 
+\i (20:03:00) generaledit 
+\i (20:03:27) xhilite 
+\i (20:03:27) xname_flush 
+\i (20:03:27) done 
+\i (20:03:27) generaledit 
+\i (20:06:41) xhilite 
+\i (20:06:41) xrefdes J4 
+\i (20:06:41) xname_flush 
+\i (20:06:41) trapsize 3433
+\t (20:06:41) Symbol "J4" highlighted.
+\i (20:06:41) done 
+\i (20:06:41) generaledit 
+\i (20:06:42) xhilite 
+\i (20:06:42) xrefdes U5 
+\i (20:06:42) xname_flush 
+\i (20:06:42) trapsize 5475
+\t (20:06:42) Symbol "U5" highlighted.
+\i (20:06:42) done 
+\i (20:06:42) generaledit 
+\i (20:06:44) xhilite 
+\i (20:06:44) xrefdes R15 
+\i (20:06:44) xname_flush 
+\i (20:06:44) trapsize 1038
+\t (20:06:44) Symbol "R15" highlighted.
+\i (20:06:44) done 
+\i (20:06:44) generaledit 
+\i (20:06:44) xhilite 
+\i (20:06:44) xrefdes R16 
+\i (20:06:44) xname_flush 
+\i (20:06:44) trapsize 1715
+\t (20:06:44) Symbol "R16" highlighted.
+\i (20:06:44) done 
+\i (20:06:44) generaledit 
+\i (20:06:45) xhilite 
+\i (20:06:45) xrefdes R17 
+\i (20:06:45) xname_flush 
+\i (20:06:45) trapsize 560
+\t (20:06:45) Symbol "R17" highlighted.
+\i (20:06:45) done 
+\i (20:06:45) generaledit 
+\i (20:06:46) xhilite 
+\i (20:06:46) xrefdes R6 
+\i (20:06:46) xname_flush 
+\i (20:06:46) trapsize 560
+\t (20:06:46) Symbol "R6" highlighted.
+\i (20:06:46) done 
+\i (20:06:46) generaledit 
+\i (20:06:47) xhilite 
+\i (20:06:47) xrefdes R25 
+\i (20:06:47) xname_flush 
+\i (20:06:47) trapsize 560
+\t (20:06:47) Symbol "R25" highlighted.
+\i (20:06:47) done 
+\i (20:06:47) generaledit 
+\i (20:06:47) xhilite 
+\i (20:06:47) xrefdes R25 
+\i (20:06:47) xname_flush 
+\i (20:06:47) trapsize 560
+\t (20:06:47) Symbol "R25" highlighted.
+\i (20:06:47) done 
+\i (20:06:47) generaledit 
+\i (20:06:47) xhilite 
+\i (20:06:47) xrefdes R5 
+\i (20:06:47) xname_flush 
+\i (20:06:47) trapsize 925
+\t (20:06:47) Symbol "R5" highlighted.
+\i (20:06:47) done 
+\i (20:06:47) generaledit 
+\i (20:06:48) xhilite 
+\i (20:06:48) xrefdes R24 
+\i (20:06:48) xname_flush 
+\i (20:06:48) trapsize 560
+\t (20:06:48) Symbol "R24" highlighted.
+\i (20:06:48) done 
+\i (20:06:48) generaledit 
+\i (20:06:50) xhilite 
+\i (20:06:50) xrefdes C43 
+\i (20:06:50) xname_flush 
+\i (20:06:50) trapsize 560
+\t (20:06:50) Symbol "C43" highlighted.
+\i (20:06:50) done 
+\i (20:06:50) generaledit 
+\i (20:06:50) xhilite 
+\i (20:06:50) xrefdes R7 
+\i (20:06:50) xname_flush 
+\i (20:06:50) trapsize 560
+\t (20:06:50) Symbol "R7" highlighted.
+\i (20:06:50) done 
+\i (20:06:50) generaledit 
+\i (20:06:51) xhilite 
+\i (20:06:51) xrefdes Q1 
+\i (20:06:51) xname_flush 
+\i (20:06:51) trapsize 2246
+\t (20:06:51) Symbol "Q1" highlighted.
+\i (20:06:51) done 
+\i (20:06:51) generaledit 
+\i (20:06:51) xhilite 
+\i (20:06:51) xrefdes R20 
+\i (20:06:51) xname_flush 
+\i (20:06:51) done 
+\i (20:06:51) generaledit 
+\i (20:06:52) xhilite 
+\i (20:06:52) xrefdes R18 
+\i (20:06:52) xname_flush 
+\i (20:06:52) trapsize 1715
+\t (20:06:52) Symbol "R18" highlighted.
+\i (20:06:52) done 
+\i (20:06:52) generaledit 
+\i (20:06:53) xhilite 
+\i (20:06:53) xrefdes R1 
+\i (20:06:53) xname_flush 
+\i (20:06:53) trapsize 925
+\t (20:06:53) Symbol "R1" highlighted.
+\i (20:06:53) done 
+\i (20:06:53) generaledit 
+\i (20:06:54) xhilite 
+\i (20:06:54) xrefdes C18 
+\i (20:06:54) xname_flush 
+\i (20:06:54) trapsize 1104
+\t (20:06:54) Symbol "C18" highlighted.
+\i (20:06:54) done 
+\i (20:06:54) generaledit 
+\i (20:06:54) xhilite 
+\i (20:06:54) xrefdes U2 
+\i (20:06:54) xname_flush 
+\i (20:06:54) trapsize 3162
+\t (20:06:54) Symbol "U2" highlighted.
+\i (20:06:54) done 
+\i (20:06:55) generaledit 
+\i (20:06:55) xhilite 
+\i (20:06:55) xrefdes C20 
+\i (20:06:55) xname_flush 
+\i (20:06:55) trapsize 931
+\t (20:06:55) Symbol "C20" highlighted.
+\i (20:06:55) done 
+\i (20:06:55) generaledit 
+\i (20:06:55) xhilite 
+\i (20:06:55) xrefdes R28 
+\i (20:06:55) xname_flush 
+\i (20:06:55) trapsize 1715
+\t (20:06:55) Symbol "R28" highlighted.
+\i (20:06:56) done 
+\i (20:06:56) generaledit 
+\i (20:06:56) xhilite 
+\i (20:06:56) xrefdes FB2 
+\i (20:06:56) xname_flush 
+\i (20:06:56) trapsize 1715
+\t (20:06:56) Symbol "Fb2" highlighted.
+\i (20:06:56) done 
+\i (20:06:57) generaledit 
+\i (20:06:57) xhilite 
+\i (20:06:57) xrefdes FB1 
+\i (20:06:57) xname_flush 
+\i (20:06:57) trapsize 1715
+\t (20:06:57) Symbol "Fb1" highlighted.
+\i (20:06:57) done 
+\i (20:06:57) generaledit 
+\i (20:06:58) xhilite 
+\i (20:06:58) xrefdes C10 
+\i (20:06:58) xname_flush 
+\i (20:06:58) trapsize 563
+\t (20:06:58) Symbol "C10" highlighted.
+\i (20:06:58) done 
+\i (20:06:58) generaledit 
+\i (20:06:58) xhilite 
+\i (20:06:58) xrefdes C11 
+\i (20:06:58) xname_flush 
+\i (20:06:58) trapsize 1742
+\t (20:06:58) Symbol "C11" highlighted.
+\i (20:06:58) done 
+\i (20:06:58) generaledit 
+\i (20:06:59) xhilite 
+\i (20:06:59) xrefdes C24 
+\i (20:06:59) xname_flush 
+\i (20:06:59) trapsize 1423
+\t (20:06:59) Symbol "C24" highlighted.
+\i (20:06:59) done 
+\i (20:06:59) generaledit 
+\i (20:06:59) xhilite 
+\i (20:06:59) xrefdes C32 
+\i (20:06:59) xname_flush 
+\i (20:06:59) trapsize 1824
+\t (20:06:59) Symbol "C32" highlighted.
+\i (20:06:59) done 
+\i (20:06:59) generaledit 
+\i (20:07:01) xhilite 
+\i (20:07:01) xrefdes C31 
+\i (20:07:01) xname_flush 
+\i (20:07:01) trapsize 931
+\t (20:07:01) Symbol "C31" highlighted.
+\i (20:07:01) done 
+\i (20:07:01) generaledit 
+\i (20:07:01) xhilite 
+\i (20:07:02) xrefdes C28 
+\i (20:07:02) xname_flush 
+\i (20:07:02) trapsize 931
+\t (20:07:02) Symbol "C28" highlighted.
+\i (20:07:02) done 
+\i (20:07:02) generaledit 
+\i (20:07:02) xhilite 
+\i (20:07:02) xrefdes C35 
+\i (20:07:02) xname_flush 
+\i (20:07:02) trapsize 1742
+\t (20:07:02) Symbol "C35" highlighted.
+\i (20:07:02) done 
+\i (20:07:02) generaledit 
+\i (20:07:02) xhilite 
+\i (20:07:02) xrefdes C23 
+\i (20:07:02) xname_flush 
+\i (20:07:02) trapsize 931
+\t (20:07:02) Symbol "C23" highlighted.
+\i (20:07:02) done 
+\i (20:07:02) generaledit 
+\i (20:07:03) xhilite 
+\i (20:07:03) xrefdes C29 
+\i (20:07:03) xname_flush 
+\i (20:07:03) trapsize 1055
+\t (20:07:03) Symbol "C29" highlighted.
+\i (20:07:03) done 
+\i (20:07:03) generaledit 
+\i (20:07:04) xhilite 
+\i (20:07:04) xrefdes C36 
+\i (20:07:04) xname_flush 
+\i (20:07:04) trapsize 1824
+\t (20:07:04) Symbol "C36" highlighted.
+\i (20:07:04) done 
+\i (20:07:04) generaledit 
+\i (20:07:04) xhilite 
+\i (20:07:04) xrefdes C30 
+\i (20:07:04) xname_flush 
+\i (20:07:04) trapsize 563
+\t (20:07:04) Symbol "C30" highlighted.
+\i (20:07:04) done 
+\i (20:07:04) generaledit 
+\i (20:07:04) xhilite 
+\i (20:07:04) xrefdes C27 
+\i (20:07:04) xname_flush 
+\i (20:07:04) done 
+\i (20:07:04) generaledit 
+\i (20:07:05) xhilite 
+\i (20:07:05) xrefdes R27 
+\i (20:07:05) xname_flush 
+\i (20:07:05) trapsize 563
+\t (20:07:05) Symbol "R27" highlighted.
+\i (20:07:05) done 
+\i (20:07:05) generaledit 
+\i (20:07:06) xhilite 
+\i (20:07:06) xrefdes U7 
+\i (20:07:06) xname_flush 
+\i (20:07:06) trapsize 3170
+\t (20:07:06) Symbol "U7" highlighted.
+\i (20:07:06) done 
+\i (20:07:06) generaledit 
+\i (20:07:06) xhilite 
+\i (20:07:06) xrefdes C45 
+\i (20:07:06) xname_flush 
+\i (20:07:06) trapsize 563
+\t (20:07:06) Symbol "C45" highlighted.
+\i (20:07:06) done 
+\i (20:07:06) generaledit 
+\i (20:07:07) xhilite 
+\i (20:07:07) xrefdes R4 
+\i (20:07:07) xname_flush 
+\i (20:07:07) trapsize 563
+\t (20:07:07) Symbol "R4" highlighted.
+\i (20:07:07) done 
+\i (20:07:07) generaledit 
+\i (20:07:07) xhilite 
+\i (20:07:07) xrefdes C44 
+\i (20:07:07) xname_flush 
+\i (20:07:07) trapsize 1742
+\t (20:07:07) Symbol "C44" highlighted.
+\i (20:07:07) done 
+\i (20:07:07) generaledit 
+\i (20:07:08) xhilite 
+\i (20:07:08) xrefdes R26 
+\i (20:07:08) xname_flush 
+\i (20:07:08) trapsize 925
+\t (20:07:08) Symbol "R26" highlighted.
+\i (20:07:08) done 
+\i (20:07:08) generaledit 
+\i (20:07:08) xhilite 
+\i (20:07:08) xrefdes C46 
+\i (20:07:08) xname_flush 
+\i (20:07:08) trapsize 1055
+\t (20:07:08) Symbol "C46" highlighted.
+\i (20:07:08) done 
+\i (20:07:08) generaledit 
+\i (20:07:09) xhilite 
+\i (20:07:09) xrefdes C17 
+\i (20:07:09) xname_flush 
+\i (20:07:09) trapsize 1055
+\t (20:07:09) Symbol "C17" highlighted.
+\i (20:07:09) done 
+\i (20:07:09) generaledit 
+\i (20:07:10) xhilite 
+\i (20:07:10) xrefdes C14 
+\i (20:07:10) xname_flush 
+\i (20:07:10) trapsize 1824
+\t (20:07:10) Symbol "C14" highlighted.
+\i (20:07:10) done 
+\i (20:07:10) generaledit 
+\i (20:07:10) xhilite 
+\i (20:07:10) xrefdes C15 
+\i (20:07:10) xname_flush 
+\i (20:07:10) trapsize 1824
+\t (20:07:10) Symbol "C15" highlighted.
+\i (20:07:10) done 
+\i (20:07:10) generaledit 
+\i (20:07:11) xhilite 
+\i (20:07:11) xrefdes C12 
+\i (20:07:11) xname_flush 
+\i (20:07:11) trapsize 1824
+\t (20:07:11) Symbol "C12" highlighted.
+\i (20:07:11) done 
+\i (20:07:11) generaledit 
+\i (20:07:12) xhilite 
+\i (20:07:12) xrefdes J1 
+\i (20:07:12) xname_flush 
+\i (20:07:12) trapsize 6570
+\t (20:07:12) Symbol "J1" highlighted.
+\i (20:07:12) done 
+\i (20:07:12) generaledit 
+\i (20:07:13) xhilite 
+\i (20:07:13) xrefdes C5 
+\i (20:07:13) xname_flush 
+\i (20:07:13) trapsize 1055
+\t (20:07:13) Symbol "C5" highlighted.
+\i (20:07:13) done 
+\i (20:07:13) generaledit 
+\i (20:07:14) xhilite 
+\i (20:07:14) xrefdes C6 
+\i (20:07:14) xname_flush 
+\i (20:07:14) trapsize 1055
+\t (20:07:14) Symbol "C6" highlighted.
+\i (20:07:14) done 
+\i (20:07:14) generaledit 
+\i (20:07:14) xhilite 
+\i (20:07:14) xrefdes R22 
+\i (20:07:14) xname_flush 
+\i (20:07:14) done 
+\i (20:07:14) generaledit 
+\i (20:07:15) xhilite 
+\i (20:07:15) xrefdes R23 
+\i (20:07:15) xname_flush 
+\i (20:07:15) trapsize 1055
+\t (20:07:15) Symbol "R23" highlighted.
+\i (20:07:15) done 
+\i (20:07:15) generaledit 
+\i (20:07:56) xhilite 
+\i (20:07:56) xrefdes C2 
+\i (20:07:56) xname_flush 
+\i (20:07:56) trapsize 2464
+\t (20:07:56) Symbol "C2" highlighted.
+\i (20:07:57) done 
+\i (20:07:57) generaledit 
+\i (20:07:57) xhilite 
+\i (20:07:57) xrefdes C3 
+\i (20:07:57) xname_flush 
+\i (20:07:57) trapsize 1104
+\t (20:07:57) Symbol "C3" highlighted.
+\i (20:07:57) done 
+\i (20:07:57) generaledit 
+\i (20:07:58) xhilite 
+\i (20:07:58) xrefdes J2 
+\i (20:07:58) xname_flush 
+\i (20:07:58) done 
+\i (20:07:58) generaledit 
+\i (20:07:58) xhilite 
+\i (20:07:58) xrefdes C21 
+\i (20:07:58) xname_flush 
+\i (20:07:58) trapsize 1906
+\t (20:07:58) Symbol "C21" highlighted.
+\i (20:07:58) done 
+\i (20:07:58) generaledit 
+\i (20:07:59) xhilite 
+\i (20:07:59) xrefdes R12 
+\i (20:07:59) xname_flush 
+\i (20:07:59) trapsize 925
+\t (20:07:59) Symbol "R12" highlighted.
+\i (20:07:59) done 
+\i (20:07:59) generaledit 
+\i (20:08:00) xhilite 
+\i (20:08:00) xrefdes C41 
+\i (20:08:00) xname_flush 
+\i (20:08:00) trapsize 1742
+\t (20:08:00) Symbol "C41" highlighted.
+\i (20:08:00) done 
+\i (20:08:00) generaledit 
+\i (20:08:00) xhilite 
+\i (20:08:00) xrefdes U4 
+\i (20:08:00) xname_flush 
+\i (20:08:00) trapsize 2299
+\t (20:08:00) Symbol "U4" highlighted.
+\i (20:08:00) done 
+\i (20:08:00) generaledit 
+\i (20:08:01) xhilite 
+\i (20:08:01) xrefdes C40 
+\i (20:08:01) xname_flush 
+\i (20:08:01) trapsize 1824
+\t (20:08:01) Symbol "C40" highlighted.
+\i (20:08:01) done 
+\i (20:08:02) generaledit 
+\i (20:08:02) xhilite 
+\i (20:08:02) xrefdes R2 
+\i (20:08:02) xname_flush 
+\i (20:08:02) trapsize 560
+\t (20:08:02) Symbol "R2" highlighted.
+\i (20:08:02) done 
+\i (20:08:02) generaledit 
+\i (20:08:03) xhilite 
+\i (20:08:03) xrefdes C34 
+\i (20:08:03) xname_flush 
+\i (20:08:03) trapsize 1040
+\t (20:08:03) Symbol "C34" highlighted.
+\i (20:08:03) done 
+\i (20:08:03) generaledit 
+\i (20:08:03) xhilite 
+\i (20:08:03) xrefdes C37 
+\i (20:08:03) xname_flush 
+\i (20:08:03) trapsize 1104
+\t (20:08:03) Symbol "C37" highlighted.
+\i (20:08:03) done 
+\i (20:08:03) generaledit 
+\i (20:22:49) xhilite 
+\i (20:22:49) xname_flush 
+\i (20:22:49) done 
+\i (20:22:49) generaledit 
+\i (64:36:16) xhilite 
+\i (64:36:16) xname_flush 
+\i (64:36:16) done 
+\i (64:36:16) generaledit 
+\i (64:36:18) xdehilite 
+\i (64:36:19) xname_flush 
+\i (64:36:19) done 
+\i (64:36:19) xhilite 
+\i (64:36:19) xname_flush 
+\i (64:36:19) done 
+\i (64:36:19) generaledit 
+\i (64:36:22) xdehilite 
+\i (64:36:22) xname_flush 
+\i (64:36:22) done 
+\i (64:36:22) generaledit 
+\i (64:55:03) xhilite 
+\i (64:55:03) xname_flush 
+\i (64:55:03) done 
+\i (64:55:03) generaledit 
+\i (87:16:50) xhilite 
+\i (87:16:50) xrefdes R75 
+\i (87:16:50) xname_flush 
+\i (87:16:50) done 
+\i (87:16:50) generaledit 
+\i (87:17:09) xhilite 
+\i (87:17:09) xrefdes R76 
+\i (87:17:09) xname_flush 
+\i (87:17:09) done 
+\i (87:17:09) generaledit 
+\i (87:17:11) xhilite 
+\i (87:17:12) xrefdes R77 
+\i (87:17:12) xname_flush 
+\i (87:17:12) done 
+\i (87:17:12) generaledit 
+\i (87:17:13) xhilite 
+\i (87:17:13) xrefdes R78 
+\i (87:17:13) xname_flush 
+\i (87:17:13) done 
+\i (87:17:13) generaledit 
+\i (87:17:14) xhilite 
+\i (87:17:14) xrefdes R79 
+\i (87:17:14) xname_flush 
+\i (87:17:14) done 
+\i (87:17:14) generaledit 
+\i (87:17:15) xhilite 
+\i (87:17:15) xrefdes R80 
+\i (87:17:15) xname_flush 
+\i (87:17:15) done 
+\i (87:17:15) generaledit 
+\i (87:17:16) xhilite 
+\i (87:17:17) xrefdes R81 
+\i (87:17:17) xname_flush 
+\i (87:17:17) done 
+\i (87:17:17) generaledit 
+\i (87:17:17) xhilite 
+\i (87:17:17) xrefdes R82 
+\i (87:17:17) xname_flush 
+\i (87:17:17) done 
+\i (87:17:17) generaledit 
+\i (87:17:18) xhilite 
+\i (87:17:18) xrefdes R83 
+\i (87:17:18) xname_flush 
+\i (87:17:18) done 
+\i (87:17:18) generaledit 
+\i (87:17:19) xhilite 
+\i (87:17:19) xrefdes R84 
+\i (87:17:19) xname_flush 
+\i (87:17:19) done 
+\i (87:17:19) generaledit 
+\i (87:17:22) xhilite 
+\i (87:17:22) xrefdes R102 
+\i (87:17:22) xname_flush 
+\i (87:17:22) done 
+\i (87:17:22) generaledit 
+\i (87:17:24) xhilite 
+\i (87:17:24) xrefdes R103 
+\i (87:17:24) xname_flush 
+\i (87:17:24) done 
+\i (87:17:24) generaledit 
+\i (87:17:26) xhilite 
+\i (87:17:26) xrefdes R130 
+\i (87:17:26) xname_flush 
+\i (87:17:26) done 
+\i (87:17:26) generaledit 
+\i (87:18:34) xhilite 
+\i (87:18:34) xrefdes R85 
+\i (87:18:34) xname_flush 
+\i (87:18:34) done 
+\i (87:18:35) generaledit 
+\i (87:18:37) xhilite 
+\i (87:18:37) xrefdes R86 
+\i (87:18:37) xname_flush 
+\i (87:18:37) done 
+\i (87:18:37) generaledit 
+\i (87:18:38) xhilite 
+\i (87:18:38) xrefdes R87 
+\i (87:18:38) xname_flush 
+\i (87:18:38) done 
+\i (87:18:38) generaledit 
+\i (87:18:39) xhilite 
+\i (87:18:40) xrefdes R88 
+\i (87:18:40) xname_flush 
+\i (87:18:40) done 
+\i (87:18:40) generaledit 
+\i (87:18:41) xhilite 
+\i (87:18:41) xrefdes R89 
+\i (87:18:41) xname_flush 
+\i (87:18:41) done 
+\i (87:18:41) generaledit 
+\i (87:18:42) xhilite 
+\i (87:18:42) xrefdes R90 
+\i (87:18:42) xname_flush 
+\i (87:18:42) done 
+\i (87:18:42) generaledit 
+\i (87:18:43) xhilite 
+\i (87:18:43) xrefdes R91 
+\i (87:18:43) xname_flush 
+\i (87:18:43) done 
+\i (87:18:43) generaledit 
+\i (87:18:44) xhilite 
+\i (87:18:44) xrefdes R92 
+\i (87:18:44) xname_flush 
+\i (87:18:44) done 
+\i (87:18:44) generaledit 
+\i (87:18:46) xhilite 
+\i (87:18:46) xrefdes R93 
+\i (87:18:46) xname_flush 
+\i (87:18:46) done 
+\i (87:18:46) generaledit 
+\i (87:18:47) xhilite 
+\i (87:18:47) xrefdes R96 
+\i (87:18:47) xname_flush 
+\i (87:18:47) done 
+\i (87:18:47) generaledit 
+\i (87:18:48) xhilite 
+\i (87:18:48) xrefdes R97 
+\i (87:18:48) xname_flush 
+\i (87:18:48) done 
+\i (87:18:48) generaledit 
+\i (87:18:49) xhilite 
+\i (87:18:49) xrefdes R131 
+\i (87:18:49) xname_flush 
+\i (87:18:49) done 
+\i (87:18:49) generaledit 
+\i (87:26:03) xhilite 
+\i (87:26:03) xname_flush 
+\i (87:26:03) done 
+\i (87:26:03) generaledit 
+\i (87:26:12) exit 
+\e (87:26:12) Do you want to save the changes you made to T31_QFN_SC4335_38_V1.0_190823E.brd?
+\i (87:26:13) fillin no 
+\t (87:26:14)     Journal end - Tue Aug 27 09:19:35 2019

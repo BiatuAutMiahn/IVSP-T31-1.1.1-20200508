@@ -1,0 +1,17 @@
+\t (00:02:39) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:02:39)     Journal start - Mon Jul 15 09:19:27 2019
+\t (00:02:39)         Host=CORP-0BDCDE8CEA User=Administrator Pid=5108 CPUs=4
+\t (00:02:39) 
+\t (00:02:41) Starting new design...
+\i (00:02:41) trapsize 653
+\i (00:02:41) trapsize 641
+\i (00:02:41) trapsize 655
+\i (00:02:42) trapsize 650
+\i (00:02:42) trapsize 1100
+\i (00:02:43) generaledit 
+\i (00:02:47) open 
+\i (00:03:02) fillin "D:\dinghaisong\T31\SWAN\V1.0\PCB\DB_T31_SWAN_V1.0_190713B.brd"
+\i (00:03:02) cd "D:\dinghaisong\T31\SWAN\V1.0\PCB"
+\t (00:03:02) Opening existing design...
+\i (00:03:02) trapsize 14230
+\t (00:03:02)     Journal end - Mon Jul 15 09:19:50 2019

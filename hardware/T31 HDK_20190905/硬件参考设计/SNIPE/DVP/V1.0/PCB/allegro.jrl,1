@@ -1,0 +1,86 @@
+\t (23:55:45) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (23:55:45)     Journal start - Tue Jul 16 09:12:33 2019
+\t (23:55:45)         Host=CORP-0BDCDE8CEA User=Administrator Pid=5108 CPUs=4
+\t (23:55:45) 
+\d (23:55:45) Database opened: D:/dinghaisong/T31/SNIPE/DVP/V1.0/백도/PCB/RD_T31_SNIPE_D_V1.0_20190715B.brd
+\i (23:55:45) generaledit 
+\i (23:55:46) zoom in 1 
+\i (23:55:46) setwindow pcb
+\i (23:55:46) zoom in 368.595 1102.305
+\i (23:55:46) trapsize 79380
+\i (23:55:46) zoom in 1 
+\i (23:55:46) setwindow pcb
+\i (23:55:46) zoom in 559.108 1086.429
+\i (23:55:46) trapsize 39690
+\i (23:55:46) zoom in 1 
+\i (23:55:46) setwindow pcb
+\i (23:55:46) zoom in 638.488 1086.429
+\i (23:55:46) trapsize 19845
+\i (23:55:46) zoom in 1 
+\i (23:55:46) setwindow pcb
+\i (23:55:46) zoom in 793.280 808.598
+\i (23:55:46) trapsize 9923
+\i (23:55:47) zoom out 1 
+\i (23:55:47) setwindow pcb
+\i (23:55:47) zoom out 872.661 1042.771
+\i (23:55:47) trapsize 19845
+\i (23:55:49) setwindow form.vf_vis
+\i (23:55:49) FORM vf_vis colorview_list Film: ADT 
+\i (23:55:49) setwindow pcb
+\i (23:55:49) pick grid 2607.125 -76.494
+\t (23:55:49) last pick:  2607.000  -76.500
+\i (23:55:50) zoom in 1 
+\i (23:55:50) setwindow pcb
+\i (23:55:50) zoom in 1158.432 233.090
+\i (23:55:50) trapsize 9923
+\i (23:55:51) zoom out 1 
+\i (23:55:51) setwindow pcb
+\i (23:55:51) zoom out -137.454 463.294
+\i (23:55:51) trapsize 19845
+\i (23:55:51) zoom in 1 
+\i (23:55:51) setwindow pcb
+\i (23:55:51) zoom in 739.700 633.962
+\i (23:55:51) trapsize 9923
+\i (23:55:54) setwindow form.vf_vis
+\i (23:55:54) FORM vf_vis colorview_list Film: ADB 
+\i (23:55:54) setwindow pcb
+\i (23:55:54) pick grid 2170.533 435.511
+\t (23:55:54) last pick:  2170.500  435.500
+\i (23:55:56) setwindow form.vf_vis
+\i (23:55:56) FORM vf_vis 4 via_colorvisible 0 
+\i (23:55:56) setwindow pcb
+\i (23:55:56) pick grid 2065.354 312.471
+\t (23:55:56) last pick:  2065.500  312.500
+\i (23:55:57) zoom in 1 
+\i (23:55:57) setwindow pcb
+\i (23:55:57) zoom in 938.151 20.748
+\i (23:55:57) trapsize 4961
+\i (23:55:58) zoom out 1 
+\i (23:55:58) setwindow pcb
+\i (23:55:58) zoom out 1254.681 531.760
+\i (23:55:58) trapsize 9923
+\i (23:55:58) zoom in 1 
+\i (23:55:58) setwindow pcb
+\i (23:55:58) zoom in 554.149 156.687
+\i (23:55:58) trapsize 4961
+\i (23:55:59) zoom out 1 
+\i (23:55:59) setwindow pcb
+\i (23:55:59) zoom out 496.598 164.626
+\i (23:55:59) trapsize 9923
+\i (23:56:06) zoom in 1 
+\i (23:56:06) setwindow pcb
+\i (23:56:06) zoom in 615.669 81.276
+\i (23:56:06) trapsize 4961
+\i (23:56:08) show element 
+\i (23:56:09) setwindow form.find
+\i (23:56:09) FORM find all_off  
+\i (23:56:10) FORM find nets YES 
+\i (23:56:19) setwindow pcb
+\i (23:56:19) open 
+\e (23:56:19) Do you want to save the changes you made to RD_T31_SNIPE_D_V1.0_20190715B.brd?
+\i (23:56:20) fillin no 
+\i (23:56:33) fillin "D:\dinghaisong\T30\KOALA\DVP\V1.0\백도\PCB\RD_T30_KOALA_D_V1.0_20171114B.brd"
+\i (23:56:33) cd "D:\dinghaisong\T30\KOALA\DVP\V1.0\백도\PCB"
+\t (23:56:33) Opening existing design...
+\i (23:56:33) trapsize 9278
+\t (23:56:33)     Journal end - Tue Jul 16 09:13:21 2019
